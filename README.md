@@ -8,6 +8,11 @@
 - Utilized **Librosa** to extract audio features such as MFCCs, ensuring robust and accurate feature representation.  
 - Utilized the **RAVDESS dataset** for training, comprising high-quality emotional speech and song recordings, to build a robust and reliable model.  
 - Conducted comprehensive **data preprocessing and feature engineering**, enhancing model performance and interpretability.  
-- Implemented an end-to-end **audio processing and classification pipeline**, showcasing expertise in machine learning and user-friendly app development.  
+- Implemented an end-to-end **audio processing and classification pipeline**, showcasing expertise in machine learning and user-friendly app development.
+
+![image](https://github.com/user-attachments/assets/80eb9359-f1ca-4cba-8e87-04a232a73f00)
+![image](https://github.com/user-attachments/assets/abe76678-205a-4f06-9f30-19b37c3c4d16)
+
+
 
 
