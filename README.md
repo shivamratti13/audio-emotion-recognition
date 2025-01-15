@@ -11,7 +11,8 @@
 - Implemented an end-to-end **audio processing and classification pipeline**, showcasing expertise in machine learning and user-friendly app development.
 
 ![image](https://github.com/user-attachments/assets/80eb9359-f1ca-4cba-8e87-04a232a73f00)
-![image](https://github.com/user-attachments/assets/abe76678-205a-4f06-9f30-19b37c3c4d16)
+![image](https://github.com/user-attachments/assets/f6113ade-a97d-4d1a-a4e2-3420a4d785e4)
+
 
 
 
