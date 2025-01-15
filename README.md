@@ -1,6 +1,13 @@
- Developed an audio emotion recognition system that classifies audio into 8 emotional categories with 77.59% accuracy using a Random Forest classifier.
-Utilized the RAVDESS dataset for training, comprising high-quality emotional speech and song recordings, to build a robust and reliable model.
-Designed and deployed a Streamlit app allowing users to upload or record audio for real-time emotion classification.
-Utilized Librosa to extract audio features such as MFCCs, ensuring robust and accurate feature representation.
-Conducted comprehensive data preprocessing and feature engineering, enhancing model performance and interpretability.
+# **Audio Emotion Classifier: Decoding Emotions from Sound**
+
+![image](https://github.com/user-attachments/assets/5e3bf0ed-da0c-45e1-aad2-cff26aa0a860)
+
+
+- Developed an **audio emotion recognition system** that classifies audio into 8 emotional categories with 77.59% accuracy using a Random Forest classifier.  
+- Designed and deployed a **Streamlit app** allowing users to upload or record audio for real-time emotion classification.  
+- Utilized **Librosa** to extract audio features such as MFCCs, ensuring robust and accurate feature representation.  
+- Utilized the **RAVDESS dataset** for training, comprising high-quality emotional speech and song recordings, to build a robust and reliable model.  
+- Conducted comprehensive **data preprocessing and feature engineering**, enhancing model performance and interpretability.  
+- Implemented an end-to-end **audio processing and classification pipeline**, showcasing expertise in machine learning and user-friendly app development.  
+
 
